@@ -1,5 +1,9 @@
 ~ lowercase [experimental]
 
-makes every character lowercase in different stuff.
+makes every character lowercase on different stuff.
 
-[chrome](/chrome/)
+packages:
+
+[windows](/packages/windows/) (under development)
+
+[chrome](/packages/chrome/)
