@@ -7,3 +7,5 @@ packages:
 [windows](/packages/windows/) (under development)
 
 [chrome](/packages/chrome/)
+
+[zen](/packages/zen/)
