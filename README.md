@@ -2,12 +2,11 @@
 
 makes every character lowercase on different stuff.
 
-packages:
-
-[windows](/packages/windows/) (under development)
-
-[chrome](/packages/chrome/)
-
-[zen](/packages/zen/)
+~ packages
+| package | description | installation/method |
+| :----- | :----- | :----- |
+| windows [under development] | makes latin characters lowercase on the entire os | [executable & font](/packages/chrome/) |
+| chrome | makes latin characters lowercase in websites or the entire browser | [extension or font](/packages/chrome/) |
+| firefox/zen | makes latin characters lowercase in websites or the entire browser | [extension or font](/packages/zen/) |
 
 create stuff.
